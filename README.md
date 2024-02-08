@@ -8,3 +8,6 @@ Desenvolvi este projeto durante o NLW Expert da [Rocketseat](https://www.rockets
 - Tailwind
 - Vite
 - SpeechRecognition API
+
+## Confira a aplicação
+[Aqui](https://vmedeiros-explorer-notes.vercel.app/)
