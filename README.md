@@ -10,4 +10,6 @@ Desenvolvi este projeto durante o NLW Expert da [Rocketseat](https://www.rockets
 - SpeechRecognition API
 
 ## Confira a aplicação
-[Aqui](https://vmedeiros-explorer-notes.vercel.app/)
+[Clique Aqui](https://vmedeiros-explorer-notes.vercel.app/)
+
+![](/demo.png)
